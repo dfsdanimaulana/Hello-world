@@ -1,0 +1,18 @@
+Target pembelajaran :
+1.Git dan GitHub
+2.Basic terminal usage
+3.data structure
+4.algorithma
+ -problem solving
+ -big-o & time complecxity
+ -rekursi
+ -serching dan sorting
+5.struktur data
+ -javascript
+ -python
+6.design pattern
+7.licenses
+8.semantic version
+9.ssh
+10.http/https dan apis
+11.character encoding
